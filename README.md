@@ -14,3 +14,5 @@ To use the dataset with this project:
 
 ### Note
 All external resources are referenced in the project report, and their use adheres to the respective licensing requirements.
+
+Example of video output can be found here [Social Distancing and Mask Detection using YOLO11](https://youtu.be/HBSni3KvkGs)
