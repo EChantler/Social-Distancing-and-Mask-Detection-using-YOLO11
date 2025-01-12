@@ -175,3 +175,6 @@ datasets
 violation_images
 runs
 .venv
+*.mp4
+*.avi
+*.csv
